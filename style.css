@@ -1,0 +1,11 @@
+body {
+	 background: #ccc;
+ }
+ #fullwidth{
+   position: fixed;
+	background: blue;
+	margin: 0px auto;
+	width: 350px;
+	padding: 5px;
+	left: 0; right: 0;
+}
