@@ -19,3 +19,10 @@ yy = $(this).attr('txt');">
 <img id="clipimg"></img>
 <b id="cliptxt">3</b>
 </div><br>
+<div img="" link="" txt="4" onClick="poster.src = $(this).attr('img');
+all.innerHTML  = $(this).attr('link');
+$('#bit b').eq(3).trigger('click');
+yy = $(this).attr('txt');">
+<img id="clipimg"></img>
+<b id="cliptxt">4</b>
+</div><br>
