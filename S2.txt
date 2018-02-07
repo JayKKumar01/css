@@ -1,0 +1,21 @@
+<div img="" link="" txt="1" onClick="poster.src = $(this).attr('img');
+all.innerHTML  = $(this).attr('link');
+$('#bit b').eq(3).trigger('click');
+yy = $(this).attr('txt');">
+<img id="clipimg"></img>
+<b id="cliptxt">1</b>
+</div><br>
+<div img="" link="" txt="2" onClick="poster.src = $(this).attr('img');
+all.innerHTML  = $(this).attr('link');
+$('#bit b').eq(3).trigger('click');
+yy = $(this).attr('txt');">
+<img id="clipimg"></img>
+<b id="cliptxt">2</b>
+</div><br>
+<div img="" link="" txt="3" onClick="poster.src = $(this).attr('img');
+all.innerHTML  = $(this).attr('link');
+$('#bit b').eq(3).trigger('click');
+yy = $(this).attr('txt');">
+<img id="clipimg"></img>
+<b id="cliptxt">3</b>
+</div><br>
