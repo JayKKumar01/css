@@ -1,0 +1,30 @@
+<div id="clip"       
+      img=""
+      link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180209T172845" 
+      ts="&st=308&en=310"
+      txt="1"> 
+</div><br>
+<div id="clip"       
+      img=""
+      link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180209T172845" 
+      ts="&st=306&en=308"
+      txt="2"> 
+</div><br>
+<div id="clip"       
+      img=""
+      link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180209T172845" 
+      ts="&st=304&en=306"
+      txt="3"> 
+</div><br>
+<div id="clip"       
+      img=""
+      link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180209T172845" 
+      ts="&st=300&en=302"
+      txt="4"> 
+</div><br>
+<div id="clip"       
+      img=""
+      link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180209T172845" 
+      ts="&st=302&en=304"
+      txt="5"> 
+</div><br>
