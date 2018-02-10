@@ -1,10 +1,3 @@
-<div id="clip" img="http://i.cricketcb.com/stats/img/faceImages/370.jpg" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180209T172845" ts="&st=356&en=356" txt="Ab"></div><br>
-<div id="clip" img="http://i.cricketcb.com/stats/img/faceImages/1726.jpg" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180209T172845" ts="&st=356&en=356" txt="Bhuvi"></div><br>
-<div id="clip" img="http://i.cricketcb.com/stats/img/faceImages/7910.jpg" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180209T172845" ts="&st=356&en=356" txt="Chahal"></div><br>
-<div id="clip" img="http://i.cricketcb.com/stats/img/faceImages/1836.jpg" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180209T172845" ts="&st=356&en=356" txt="Manish"></div><br>
-<div id="clip" img="http://i.cricketcb.com/stats/img/faceImages/265.jpg" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180209T172845" ts="&st=356&en=356" txt="Dhoni"></div><br>
-<div id="clip" img="http://i.cricketcb.com/stats/img/faceImages/576.jpg" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180209T172845" ts="&st=356&en=356" txt="Rohit"></div><br>
-<div id="clip" img="http://i.cricketcb.com/stats/img/faceImages/1413.jpg" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180209T172845" ts="&st=356&en=356" txt="Virat"></div><br>
 <div id="clip"       
       img=""
       link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180209T172845" 
@@ -34,4 +27,4 @@
       link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180209T172845" 
       ts="&st=302&en=304"
       txt="5"> 
-</div><br><br>
+</div><br>
