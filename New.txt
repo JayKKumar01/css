@@ -4,7 +4,7 @@
 <div id="clip"  link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180210T173000" ts="&st=4049&en=4054" txt="ABD targets Chahal"></div><br> 
 <div id="clip"  link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180210T173000" ts="&st=60&en=3934" txt="4th ODI | Full Match REPLAY"></div><br> 
 <div id="clip"  link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180210T173000" ts="&st=3874&en=3878" txt="Klaasen Match Winning Inning"></div><br> 
-<div id="clip"  link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180210T173000" ts="&st=3799&en=3812" txt="Record Holds on | Never Lost in PINK"></div><br> 
+<div id="clip"  link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180210T173000" ts="&st=3799&en=3812" txt="Record Rolls on | Never Lost in PINK"></div><br> 
 <div id="clip"  link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180210T173000" ts="&st=3772&en=3773" txt="Can he bat????"></div><br> 
 <div id="clip"  link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180210T173000" ts="&st=3731&en=3736" txt="Twist in the match ! MILLER is finally gone"></div><br> 
 <div id="clip"  link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180210T173000" ts="&st=3656&en=3659" txt="What is this shot???"></div><br> 
