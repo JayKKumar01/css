@@ -1,3 +1,4 @@
+<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180213T172959" ts="&st=1103&en=1117" txt="Kohli is safe... don't worry"></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180213T172959" ts="&st=1083&en=1086" txt="Six no. 3 for Rohit"></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180213T172959" ts="&st=1056&en=1059" txt="Rohit's Inning so far...."></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180213T172959" ts="&st=1027&en=1029" txt="Well played Rohit Sharma | First fifty for him"></div><br>
