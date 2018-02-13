@@ -1,3 +1,4 @@
+<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180213T172959" ts="&st=1056&en=1059" txt="Rohit's Inning so far...."></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180213T172959" ts="&st=1027&en=1029" txt="Well played Rohit Sharma | First fifty for him"></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180213T172959" ts="&st=998&en=1001" txt="100 comes up for India"></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180213T172959" ts="&st=810&en=814" txt="Six no. 2 for Rohit Sharma ! He is looking very good"></div><br>
