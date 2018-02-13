@@ -1,3 +1,4 @@
+<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180213T172959" ts="&st=3015&en=3018" txt="Another one goes down! First for Kuldeep"></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180213T172959" ts="&st=2976&en=2981" txt="Yesssss!!! Amla is gone! Hardik has done it"></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180213T172959" ts="&st=2814&en=2815" txt="It was hitting the stumps😐😐😐"></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180213T172959" ts="&st=2756&en=2762" txt="Chahal did it for India! Miller is gone now."></div><br>
