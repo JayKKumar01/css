@@ -1,4 +1,4 @@
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180216T173003" ts="&st=2998&en=3025" txt="Virat Praises Anushka once again"></div><br>
+<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180216T173003" ts="&st=2998&en=3055" txt="Virat Praises Anushka once again"></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180216T173003" ts="&st=2814&en=2818" txt="Watch King Kohli's 17 fours"></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180216T173003" ts="&st=2773&en=2775" txt="No Comments Just FEEL it"></div><br>
 
