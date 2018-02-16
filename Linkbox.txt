@@ -1,5 +1,5 @@
 <div id="thumb" url='2001704999'></div>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180216T173003" ts="&st=2374&en=2377" txt=""></div><br>
+<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180216T173003" ts="&st=2374&en=2377" txt="India's Powerplay inning"></div><br>
 <div id='liv1' url='https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/master_224.m3u8'></div>
 <div id='liv2' url='https://adslivestream-i.akamaihd.net/hls/live/596013/hls1/master_224.m3u8'></div>
 <div id='star1' url='http://hssports1-i.akamaihd.net/hls/live/573306/transtasman2018l/NZAUS5T2016FEB2018/master_Layer3/master_Layer3.m3u8'></div>
