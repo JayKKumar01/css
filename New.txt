@@ -1,3 +1,4 @@
+<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=657&en=660" txt="Raina fails after a great start"></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=620&en=628" txt="Raina hits his first six and a four after Comeback"></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=608&en=610" txt="Rohit blasts the First Over"></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=596&en=597" txt="1st Wicket is DOWN"></div><br>
