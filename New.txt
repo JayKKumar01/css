@@ -1,3 +1,4 @@
+<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=2215&en=2232" txt="All the Moments from 1st T20I"></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=1500&en=2000" txt="1st T20I Match Replay - 3"></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=900&en=1500" txt="1st T20I Match Replay - 2"></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=300&en=900" txt="1st T20I Match Replay - 1 "></div><br>
