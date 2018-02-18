@@ -1,3 +1,4 @@
+<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=906&en=911" txt="Dhawan 59 not out so far..."></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=805&en=814" txt="Kohli fails for the first time"></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=774&en=778" txt="Drop Kohli and you will see the result"></div><br>
 <div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=718&en=723" txt="Powerplay So far..."></div><br>
