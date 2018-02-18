@@ -1,5 +1,5 @@
-<div id="thumb" url='2001704999'></div>
+<div id="thumb" url='2001705022'></div>
 <div id='liv1' url='https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/master_224.m3u8'></div>
 <div id='liv2' url='https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/master_224.m3u8'></div>
-<div id='star1' url='http://hssports1-i.akamaihd.net/hls/live/573306/transtasman2018l/NZAUS5T2016FEB2018/master_Layer3/master_Layer3.m3u8'></div>
-<div id='star2' url='http://hssports1-i.akamaihd.net/hls/live/573306/u19wc2018l/ICCAUSIND03FEB2018/master_Layer3/master_Layer3.m3u8'></div>
+<div id='star1' url='http://hssports1-i.akamaihd.net/hls/live/573306/transtasman2018l/NZENG6T2018FEB2018/master_Layer3/master_Layer3.m3u8'></div>
+<div id='star2' url='http://hssports1-i.akamaihd.net/hls/live/573306/transtasman2018l/NZAUS5T2016FEB2018/master_Layer3/master_Layer3.m3u8'></div>
