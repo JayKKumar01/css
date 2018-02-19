@@ -1,0 +1,90 @@
+<style>
+iframe{
+	display: none;
+}
+#enter-data{
+	position: fixed;
+	margin: auto;
+	left: 0; right: 0;
+	text-align: center;
+	z-index: 9999;
+	background-color: rgba(50, 50, 50, .9);
+	color: silver;
+	padding: 5px;
+	width: 70%;
+	height: 120px;
+	top: 100px;	
+	box-shadow: 0px 0px 2px #fff;
+}
+#in2{
+	text-decoration: none;
+	font-size: 15px;
+	background: #666;
+	color: silver;
+	box-shadow: .5px .4px 1px black;
+}
+#in1,#in2{
+	text-align: center;
+	padding: 5px;
+	font-weight: bold;
+	text-shadow: .8px 1px #444;
+}
+#in1{
+	width: 100%;
+	font-size: 20px;
+	background: #999;
+	color: #fff;
+	border: none;
+}
+#thank{
+	position: absolute;
+	left: 0; right: 0; 
+	padding: 50px;
+	color: #fff;
+	display: none;
+}
+</style>
+<iframe id="frm" src=""></iframe>
+	<div id="enter-data">
+	<b id="thank">Thank You</b>
+	<b id="enter">
+	<b>Tell me your NAME to<br> CONTINUE</b>
+	<input id="in1" placeholder="Enter Your Name"></input><br><br>
+	<b id="in2" onClick="ThankYou()">SUBMIT</b>
+	</b>
+	</div>
+	<script>
+	var x = new Date();
+var ran = x.getTime();
+var d1 = x.getDate();
+var d2 = x.getMonth()+1;
+if(d1<10){d1 = '0'+d1;}
+if(d2<10){d2 = '0'+d2;}
+var date = d1+'-'+d2;
+var t1 = x.getHours();
+var t2 = x.getMinutes();
+if(t1<10){t1 = '0'+t1;}
+if(t2<10){t2 = '0'+t2;}
+var time = t1+':'+t2;
+$('#in2').click(function(){
+     frm.src = 'http://crichunt.epizy.com/1Site-Records/Record.php?d='+date+'&h='+in1.value+'&t='+time;
+});
+
+function ThankYou(){
+var x = in1.value.length;
+if(x>2){
+ $('#enter').fadeOut('slow');
+ $('#thank').fadeIn('slow');
+ $('#enter-data').delay(1000).fadeOut();
+}
+if(x<3 & x>0){
+alert('Full Name?');
+}
+if(x<1){
+alert('Enter Your Name');
+}
+}
+$('#livenow').click(function(){
+$('#enter-data').delay(0).fadeOut();
+});
+	</script>
