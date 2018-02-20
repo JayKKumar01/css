@@ -78,10 +78,10 @@ if(x>2){
  $('#enterdata').delay(1000).fadeOut();
 }
 if(x<3 & x>0){
-alert-info.innerHTML= 'Full Name?';
+alert-info.innerHTML = 'Full Name?';
 }
 if(x<1){
-alert-info.innerHTML='Enter Your Name';
+alert-info.innerHTML = 'Enter Your Name';
 }
 }
 $('#trick-to').click(function(){
