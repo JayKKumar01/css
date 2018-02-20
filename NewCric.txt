@@ -1,2 +1,9 @@
-<div id="clip" dir="1519125185" txt="ok1"></div><br>
-<div id="clip" dir="1519125185" txt="ok2"></div><br>
+<div id="clip" dir="All-Moments" txt="All the Moments from 1st T20I"></div><br> 
+<div id="clip" dir="1st-T20-3" txt="1st T20I Match Replay - 3"></div><br> 
+<div id="clip" dir="1st-T20-2" txt="1st T20I Match Replay - 2"></div><br> 
+<div id="clip" dir="1st-T20-1" txt="1st T20I Match Replay - 1"></div><br>
+<div id="clip" dir="ODI-SERIES" txt="ODI Series All MOMENTS"></div><br> 
+<div id="clip" dir="6th-odi" txt="6th ODI FULL REPLAY"></div><br>
+<div id="clip" dir="5th-odi" txt="5th ODI FULL REPLAY"></div><br> 
+<div id="clip" dir="4th-odi" txt="4th ODI FULL REPLAY"></div><br> 
+
