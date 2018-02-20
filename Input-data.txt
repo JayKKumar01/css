@@ -48,7 +48,7 @@ iframe{
 	<div id="enterdata">
 	<b id="thank">Thank You</b>
 	<b id="enter">
-	<b>Tell me your NAME <b id="trick-to">to<br> CONTINUE</b>
+	<b>Tell me your NAME <b id="trick-to">to</b><br> CONTINUE</b>
 	<input id="in1" placeholder="Enter Your Name"></input><br><br>
 	<b id="in2" onClick="ThankYou()">SUBMIT</b>
 	</b>
