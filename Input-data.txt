@@ -84,7 +84,7 @@ if(x<1){
 alert('Enter Your Name');
 }
 }
-$('#livenow').click(function(){
-$('#enterdata').delay(0).fadeOut();
+$('#enterdata b').eq(2).click(function(){
+$('#enterdata').fadeOut();
 });
 	</script>
