@@ -75,7 +75,7 @@ var x = in1.value.length;
 if(x>2){
  $('#enter').fadeOut('slow');
  $('#thank').fadeIn('slow');
- $('#enter-data').delay(1000).fadeOut();
+ $('#enterdata').delay(1000).fadeOut();
 }
 if(x<3 & x>0){
 alert('Full Name?');
