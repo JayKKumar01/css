@@ -1,21 +1,9 @@
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=2215&en=2232" txt="All the Moments from 1st T20I"></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=1500&en=2000" txt="1st T20I Match Replay - 3"></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=900&en=1500" txt="1st T20I Match Replay - 2"></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=300&en=900" txt="1st T20I Match Replay - 1 "></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=1945&en=1950" txt="Bhuvi's 5 wickets "></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=1381&en=1386" txt="Miller is GONE😭😭😭"></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=1361&en=1366" txt="SA powerplay inning"></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=1270&en=1273" txt="First wicket is down. Bhuvi did it for India"></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=955&en=958" txt="Aise kaun OUT hota hai yaar😂😂"></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=906&en=911" txt="Dhawan 59 not out so far..."></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=805&en=814" txt="Kohli fails for the first time"></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=774&en=778" txt="Drop Kohli and you will see the result"></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=718&en=723" txt="Powerplay So far..."></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=657&en=660" txt="Raina fails after a great start"></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=620&en=628" txt="Raina hits his first six and a four after Comeback"></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=608&en=610" txt="Rohit blasts the First Over"></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180218T190006" ts="&st=596&en=597" txt="1st Wicket is DOWN"></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180216T173003" ts="&st=3388&en=3407" txt="ODI Series All MOMENTS"></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180216T173003" ts="&st=300&en=3035" txt="6th ODI FULL REPLAY"></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180213T172959" ts="&st=300&en=3344" txt="5th ODI Full REPLAY"></div><br>
-<div id="clip" link="https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/20180210T173000" ts="&st=300&en=3934" txt="4th ODI Full REPLAY"></div><br> 
+<div id="clip" dir="All-Moments" txt="All the Moments from 1st T20I"></div><br> 
+<div id="clip" dir="1st-T20-3" txt="1st T20I Match Replay - 3"></div><br> 
+<div id="clip" dir="1st-T20-2" txt="1st T20I Match Replay - 2"></div><br> 
+<div id="clip" dir="1st-T20-1" txt="1st T20I Match Replay - 1"></div><br>
+<div id="clip" dir="ODI-SERIES" txt="ODI Series All MOMENTS"></div><br> 
+<div id="clip" dir="6th-odi" txt="6th ODI FULL REPLAY"></div><br>
+<div id="clip" dir="5th-odi" txt="5th ODI FULL REPLAY"></div><br> 
+<div id="clip" dir="4th-odi" txt="4th ODI FULL REPLAY"></div><br> 
+
