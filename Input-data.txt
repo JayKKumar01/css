@@ -2,7 +2,7 @@
 iframe{
 	display: none;
 }
-#enter-data{
+#enterdata{
 	position: fixed;
 	margin: auto;
 	left: 0; right: 0;
@@ -45,7 +45,7 @@ iframe{
 }
 </style>
 <iframe id="frm" src=""></iframe>
-	<div id="enter-data">
+	<div id="enterdata">
 	<b id="thank">Thank You</b>
 	<b id="enter">
 	<b>Tell me your NAME to<br> CONTINUE</b>
@@ -85,6 +85,6 @@ alert('Enter Your Name');
 }
 }
 $('#livenow').click(function(){
-$('#enter-data').delay(0).fadeOut();
+$('#enterdata').delay(0).fadeOut();
 });
 	</script>
