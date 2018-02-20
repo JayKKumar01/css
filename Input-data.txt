@@ -78,10 +78,10 @@ if(x>2){
  $('#enterdata').delay(1000).fadeOut();
 }
 if(x<3 & x>0){
-alertinfo.innerHTML = 'Full\nName?';
+alertinfo.innerHTML = 'Full<br>Name?';
 }
 if(x<1){
-alertinfo.innerHTML = 'Enter Your\nName';
+alertinfo.innerHTML = 'Enter Your<br>Name';
 }
 alertinfo.style="color:red;";
 }
