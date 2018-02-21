@@ -1,9 +1,9 @@
 
 <div id="clip" dir="2nd-T20I-3" txt="2nd T20I Match Replay - 3"></div><br> 
 
-<div id="clip" dir="2nd-T20I-2" txt="2nd T20I Match Replay - 3"></div><br> 
+<div id="clip" dir="2nd-T20I-2" txt="2nd T20I Match Replay - 2"></div><br> 
 
-<div id="clip" dir="2nd-T20I-1" txt="2nd T20I Match Replay - 3"></div><br> 
+<div id="clip" dir="2nd-T20I-1" txt="2nd T20I Match Replay - 1"></div><br> 
 
 <div id="clip" dir="All-Moments" txt="All the Moments from 1st T20I"></div><br> 
 
