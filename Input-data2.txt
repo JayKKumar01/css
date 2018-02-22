@@ -1,4 +1,8 @@
 <style>
+#ls-info{
+color: rgb(100,300,100);
+background:  rgba(0,0,0,.7);
+}
 #logIn-signUp{
 	position: fixed;
 	margin: auto;
@@ -85,7 +89,7 @@
 	top: 70px;
 	left: 0; right: 0; 
 	font-style: serif;
-	color: #139;
+	
 	z-index: 5;
 	display: none;
 }
@@ -111,7 +115,7 @@
 </style>
 	 <div id="logIn-signUp">
 	 <iframe id="lsfrm"></iframe>
-	 <b id="ls-info">Thank You</b>
+	 <b id="ls-info">Welcome to CricHunt</b>
 <div id="signUp-box">
                     <p id="signUp1">
                    <a id="signinfo"></a>
