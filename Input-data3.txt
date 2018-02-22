@@ -19,7 +19,7 @@ color: rgb(100,300,100);
 	font-style: serif;
 	height: 130px;
 	padding: 5px;
-	background:  rgba(50,50,50,.4);
+	background:  rgba(50,50,50,.7);
 	text-align: absolute;
 	margin: 0px auto;
 	text-align: center;
