@@ -120,7 +120,7 @@ color: rgb(100,300,100);
 <div id="signUp-box">
                     <p id="signUp1">
                    <a id="signinfo"></a>
- <input id="signUpname" placeholder="Enter Your First Name Only">
+ <input id="signUpname" placeholder="First Name Only">
 	                 </input><br>
  <input id="signUppin1" placeholder="Create PIN">
                     </input><br>
