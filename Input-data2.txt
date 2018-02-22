@@ -14,7 +14,7 @@
 	font-style: serif;
 	height: 130px;
 	padding: 5px;
-	background:  rgb(50,50,50);
+	background:  rgba(0,0,0,.6);
 	text-align: absolute;
 	margin: 0px auto;
 	text-align: center;
