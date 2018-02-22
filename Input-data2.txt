@@ -1,0 +1,229 @@
+<style>
+#logIn-signUp{
+	position: fixed;
+	margin: auto;
+	left: 0; right: 0;
+	text-align: center;
+	z-index: 9999;
+	top: 100px;
+	width: 50%;
+	font-style: serif;
+}
+#signUp-box,#logIn-box{
+   position: absolute;
+	font-style: serif;
+	height: 130px;
+	padding: 5px;
+	background:  rgb(50,50,50);
+	text-align: absolute;
+	margin: 0px auto;
+	text-align: center;
+	left: 0; right: 0;
+	line-height: 30px;
+}
+#signUp-box input,#logIn-box input{
+	width: 80%;
+	border: none;
+	padding: 3px;
+	border-radius: 5px;
+	background: rgb(35,35,35);
+	color: rgb(179,156,120);
+	text-align: center;
+	font-weight: bold;
+	font-style: serif;
+	box-shadow: 0px .2px .5px #fff;
+	text-shadow: .5px .2px black;
+}
+#signUp,#logIn{
+   position: relative;
+   top: 10px;
+   border: none;
+   background: rgb(179,156,100);
+   color: #222;
+   padding: 3px;
+   font-weight: bold;
+   box-shadow: 0px 0px 2px #000;
+   text-shadow: .5px .2px black;
+   font-style: serif;
+}
+#signUp1{
+	position: relative;
+	color: red;
+	font-size: 12px;
+	text-align: center;
+	font-style: serif;
+}
+#signUp2{
+   position: relative;	
+   display: none;
+   font-style: serif;
+}
+#signUp-box b{
+	background: #999;
+	color: #138;
+	padding: 3px;
+	border-radius: 1px;
+	text-shadow: .5px .2px #000;
+}
+#signUp-box{
+	display: none;
+}
+#logIn-box{
+	
+}
+#ask-Up{
+    position: absolute;
+	font-size: 10px;
+	bottom: 20px;
+	right: 20px;
+	color: rgb(100,300,100);
+	text-decoration: underline;
+	cursor: pointer; 
+}
+#ls-info{
+	position: absolute;
+	top: 70px;
+	left: 0; right: 0; 
+	font-style: serif;
+	color: #139;
+	z-index: 5;
+	display: none;
+}
+#ask-In{
+	background: none;
+	color:rgb(100,300,100);
+	text-decoration: underline;
+	font-size: 15px;
+	cursor: pointer;	
+}
+#lsfrm{
+	display: none;
+}
+#loginfo,#signinfo{
+	position: absolute;
+	top: 0; margin: 0px auto;
+	left: 0;right: 0;
+	text-align: center;
+	font-size: 10px;
+	color: rgb(255,0,0);
+	display: none;
+}
+</style>
+	 <div id="logIn-signUp">
+	 <iframe id="lsfrm"></iframe>
+	 <b id="ls-info">Thank You</b>
+<div id="signUp-box">
+                    <p id="signUp1">
+                   <a id="signinfo"></a>
+ <input id="signUpname" placeholder="Enter Your Name">
+	                 </input><br>
+ <input id="signUppin1" placeholder="Create PIN">
+                    </input><br>
+ <button id="signUp">SignUp</button>
+	    				</p>
+	    				<p id="signUp2">
+ <b id="signUpid">ID : Your Id</b><br>
+ <b id="signUppin2">PIN : Your PIN</b><br>
+<a id="ask-In" href="index.php">LogIn</a>
+	    				</p>	   
+	   <div id="getpin" style="display:none;"></div> 				
+</div>
+<div id="logIn-box">
+          <p id="logIn1">
+       <b id="loginfo">jay</b>
+ <input id="logInid" placeholder="Your-ID">
+	                 </input><br>
+ <input id="logInpin" placeholder="PIN">
+                    </input><br>
+ <button id="logIn">LogIn</button>
+ <b id="ask-Up">SignUp ?</b>
+             </p>
+</div>
+	</div> 
+	 <script>
+	 function idpin(){
+var get = '';
+var dat = (new Date()).getTime();
+ var url1 = 'http://crichunt.epizy.com/1Site-Records/ID-PIN/ID-PIN.txt?n'+dat;
+$.ajax({ type: "GET",   
+         url: url1,   
+         async: false,
+         success : function(text)
+         {
+             get = text;
+             
+         }
+});
+getpin.innerHTML  = get;
+}
+
+idpin();
+
+$('#ask-Up').click(function(){
+  $('#signUp2').fadeOut();
+  $('#logIn-box').fadeOut('slow');
+  $('#signUp-box').delay(20).fadeIn('slow');
+  $('#signUp1').fadeIn('slow');
+});
+$('#ask-In').click(function(){
+   
+});
+
+$('#signUp').click(function(){
+var p = (signUpname.value).replace(/[^a-zA-Z ]/g,'').length;
+var q = Number((signUppin1.value).replace(/^\D+/g,''));
+if(p>1 & q>=1000 & q<10000){
+var a = 'http://crichunt.epizy.com/1Site-Records/ID-PIN/Record.php?';
+var l = $('#getpin div').length;
+var x1 = (signUpname.value).replace(/[^a-zA-Z ]/g,'');
+var x = x1+(l+1);
+var y = Number(signUppin1.value);
+lsfrm.src = a+'id='+x+'&pin='+y;
+signUpid.innerHTML  = 'ID: '+x;
+signUppin2.innerHTML  = 'PIN: '+ y;
+$('#signUp1').fadeOut('slow');
+$('#signUp2').delay(500).fadeIn('slow');
+}
+else {
+var str = '1. Name must be longer than 2 character<br>2. PIN must be of only 4 digit(only numrical value)';
+signinfo.innerHTML  = str;
+ $('#signinfo').fadeIn();
+ $('#signUpname,#signUppin1,#signUp').fadeOut();
+ $('#signUpname,#signUppin1,#signUp').delay(4000).fadeIn();
+ $('#signinfo').delay(4000).fadeOut();
+}
+});
+
+$('#logIn').click(function(){
+var x = Number(logInpin.value);
+var y1 = logInid.value;
+var y2 = '#'+y1;
+var y = Number($(y2).attr('pin'));
+if(x===y){
+  $('#signUp-box,#logIn-box').fadeOut();
+  $('#ls-info').fadeIn();
+  $('#logIn-signUp').delay(1000).fadeOut();
+  $('#loginfo').fadeOut();
+getname();
+}
+else{    loginfo.innerHTML  = '* wrong id or pin';
+            $('#loginfo').fadeIn();
+            $('#loginfo').delay(4000).fadeOut();
+            }
+});
+function getname(){
+var x = new Date();
+var ran = x.getTime();
+var d1 = x.getDate();
+var d2 = x.getMonth()+1;
+if(d1<10){d1 = '0'+d1;}
+if(d2<10){d2 = '0'+d2;}
+var date = d1+'-'+d2;
+var t1 = x.getHours();
+var t2 = x.getMinutes();
+if(t1<10){t1 = '0'+t1;}
+if(t2<10){t2 = '0'+t2;}
+var time = t1+':'+t2;
+lsfrm.src = 'http://crichunt.epizy.com/1Site-Records/Record.php?d='+date+'&h='+logInid.value+'&t='+time;
+}
+</script>
