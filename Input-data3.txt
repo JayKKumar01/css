@@ -12,6 +12,7 @@
 #ls-info{
 padding: 5px;
 background:  rgb(50,50,50);
+color: rgb(100,300,100);
 }
 #signUp-box,#logIn-box{
    position: absolute;
@@ -89,7 +90,7 @@ background:  rgb(50,50,50);
 	top: 70px;
 	left: 0; right: 0; 
 	font-style: serif;
-	color: #139;
+	
 	z-index: 5;
 	display: none;
 }
