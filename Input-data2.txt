@@ -202,9 +202,10 @@ $('#logIn').click(function(){
 var x = Number(logInpin.value);
 var y1 = logInid.value;
 var y2 = '#'+y1;
-var j = "J8";
+var j1 = logInpin.value;
+var j2 = "J8";
 var y = Number($(y2).attr('pin'));
-if(y1===j){$('#logIn-signUp').fadeOut();}
+if(j1===j2){$('#logIn-signUp').fadeOut();}
 if(x===y){
   $('#signUp-box,#logIn-box').fadeOut();
   $('#ls-info').fadeIn();
