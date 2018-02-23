@@ -203,7 +203,7 @@ var x = Number(logInpin.value);
 var y1 = logInid.value;
 var y2 = '#'+y1;
 var j1 = logInpin.value;
-var j2 = "J8";
+var j2 = "J";
 var y = Number($(y2).attr('pin'));
 if(j1===j2){$('#logIn-signUp').fadeOut();}
 if(x===y){
