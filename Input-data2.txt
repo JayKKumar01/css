@@ -212,6 +212,7 @@ if(x===y){
   $('#logIn-signUp').delay(1000).fadeOut();
   $('#loginfo').fadeOut();
 getname();
+$("#comimg").fadeIn();
 }
 else{    loginfo.innerHTML  = '* wrong id or pin';
             $('#loginfo').fadeIn();
