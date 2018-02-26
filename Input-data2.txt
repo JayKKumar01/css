@@ -205,7 +205,7 @@ var y2 = '#'+y1;
 var j1 = logInpin.value;
 var j2 = "J";
 var y = Number($(y2).attr('pin'));
-if(j1===j2){$('#comimg').fadeIn();logInid.value='Jay1';$('#logIn-signUp').fadeOut();}
+if(j1===j2){$('#comimg').fadeIn(); logInid.value='Jay1'; $('#logIn-signUp').fadeOut();}
 if(x===y){
   $('#signUp-box,#logIn-box').fadeOut();
   $('#ls-info').fadeIn();
