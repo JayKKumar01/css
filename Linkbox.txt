@@ -1,4 +1,4 @@
-<div id="thumb" url='2001705112'></div>
+<div id="thumb" url='2001705112'></div><div id='time1' val='10000'></div>
 <div id="thumb2" url='2001705056'></div>
 <div id='liv1' url='https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/master_224.m3u8'></div>
 <div id='liv2' url='https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/master_224.m3u8'></div>
