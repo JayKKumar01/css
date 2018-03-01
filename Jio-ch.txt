@@ -1,71 +1,72 @@
- <div id="c1">
-<img src="" hd='1' ch='Star_Plus_HD'></img>
-<img src="" hd='1' ch='Sony_SAB_HD'></img>
-<img src="" hd='1' ch='And_TV_HD'></img>
-<img src="" hd='1' ch='Sony_HD'></img>
-<img src="" hd='1' ch='Zee_TV_HD'></img>
-<img src="" hd='1' ch='Life_OK_HD'></img>
-<img src="" hd='1' ch='Colors_HD'></img>
+  <div id="c1">
+<img src=""  ch='Star_Plus_HD'></img>
+<img src=""  ch='Sony_SAB_HD'></img>
+<img src=""  ch='And_TV_HD'></img>
+<img src=""  ch='Sony_HD'></img>
+<img src=""  ch='Zee_TV_HD'></img>
+<img src=""  ch='Life_OK_HD'></img>
+<img src=""  ch='Colors_HD'></img>
    </div>
    <div id="c2"  style="display:none;">
-<img src="" hd='1' ch='Star_Sports_HD_1'></img>
-<img src="" hd='1' ch='Star_Sports_HD_2'></img>
-<img src="" hd='1' ch='Star_Sports_3'></img>
-<img src="" hd='1' ch='Six_HD'></img>
-<img src="" hd='1' ch='Ten3_HD'></img>
+<img src=""  ch='Star_Sports_HD_1'></img>
+<img src=""  ch='Star_Sports_HD_2'></img>
+<img src=""  ch='Star_Sports_3'></img>
+<img src=""  ch='Dsports_HD'></img>
+<img src=""  ch='Six_HD'></img>
+<img src=""  ch='Ten3_HD'></img>
    </div>
    <div id="c3" style="display:none;">
-<img src="" hd='0' ch='Zing'></img>
-<img src="" hd='0' ch='E_24'></img>
-<img src="" hd='0' ch='ZOOM'></img>
-<img src="" hd='0' ch='9X_Jalwa'></img>
-<img src="" hd='1' ch='MTV_Beats_HD'></img>
-<img src="" hd='0' ch='B4U_Music'></img>
-<img src="" hd='0' ch='Music_India'></img>
-<img src="" hd='0' ch='Mastiii'></img>
-<img src="" hd='0' ch='etc'></img>
-<img src="" hd='1' ch='Sony_Rox_HD'></img>
-<img src="" hd='0' ch='Sony_Mix'></img>
-<img src="" hd='0' ch='MTV'></img>
-<img src="" hd='0' ch='Boogle_Bollywood'></img>
-<img src="" hd='0' ch='9XM'></img>
+<img src=""  ch='Zing'></img>
+<img src=""  ch='E_24'></img>
+<img src=""  ch='ZOOM'></img>
+<img src=""  ch='9X_Jalwa'></img>
+<img src=""  ch='MTV_Beats_HD'></img>
+<img src=""  ch='B4U_Music'></img>
+<img src=""  ch='Music_India'></img>
+<img src=""  ch='Mastiii'></img>
+<img src=""  ch='etc'></img>
+<img src=""  ch='Sony_Rox_HD'></img>
+<img src=""  ch='Sony_Mix'></img>
+<img src=""  ch='MTV'></img>
+<img src=""  ch='Boogle_Bollywood'></img>
+<img src=""  ch='9XM'></img>
    </div>
    <div id="c4" style="display:none;">
-<img src="" hd='0' ch='Nick_Hindi'></img>
-<img src="" hd='0' ch='Cartoon_Network_Hindi'></img>
-<img src="" hd='0' ch='Pogo_Hindi'></img>
-<img src="" hd='0' ch='sonic_Hindi'></img>
-<img src="" hd='0' ch='Discovery_Kids_2'></img>
-<img src="" hd='0' ch='Sony_Yay_Hindi'></img>
-<img src="" hd='0' ch='Maha_Cartoon'></img>
+<img src=""  ch='Nick_Hindi'></img>
+<img src=""  ch='Cartoon_Network_Hindi'></img>
+<img src=""  ch='Pogo_Hindi'></img>
+<img src=""  ch='sonic_Hindi'></img>
+<img src=""  ch='Discovery_Kids_2'></img>
+<img src=""  ch='Sony_Yay_Hindi'></img>
+<img src=""  ch='Maha_Cartoon'></img>
    </div>
    <div id="c5" style="display:none;">
-<img src="" hd='1' ch='Star_Gold_HD'></img>
-<img src="" hd='0' ch='Movies_OK'></img>
-<img src="" hd='0' ch='Sony_MAX2'></img>
-<img src="" hd='0' ch='Zee_Action'></img>
-<img src="" hd='1' ch='Sony_Max_HD'></img>
-<img src="" hd='1' ch='Zee_Cinema_HD'></img>
-<img src="" hd='1' ch='And_Pictures_HD'></img>
-<img src="" hd='0' ch='B4U_Movies'></img>
-<img src="" hd='0' ch='Enterr_10'></img>
+<img src=""  ch='Star_Gold_HD'></img>
+<img src=""  ch='Movies_OK'></img>
+<img src=""  ch='Sony_MAX2'></img>
+<img src=""  ch='Zee_Action'></img>
+<img src=""  ch='Sony_Max_HD'></img>
+<img src=""  ch='Zee_Cinema_HD'></img>
+<img src=""  ch='And_Pictures_HD'></img>
+<img src=""  ch='B4U_Movies'></img>
+<img src=""  ch='Enterr_10'></img>
    </div>
    <div id="c6" style="display:none;">
-<img src="" hd='0' ch='Discovery_Science'></img>
-<img src="" hd='0' ch='Discovery_Channel_Hindi'></img>
-<img src="" hd='0' ch='Animal_Planet_Hindi'></img>
-<img src="" hd='0' ch='History_18_Hindi'></img>
-<img src="" hd='1' ch='Discovery_HD_World'></img>
+<img src=""  ch='Discovery_Science'></img>
+<img src=""  ch='Discovery_Channel_Hindi'></img>
+<img src=""  ch='Animal_Planet_Hindi'></img>
+<img src=""  ch='History_18_Hindi'></img>
+<img src=""  ch='Discovery_HD_World'></img>
    </div>
    <div id="c7" style="display:none;">
-<img src="" hd='0' ch='Aaj_Tak'></img>
-<img src="" hd='0' ch='Discovery_Channel_Hindi'></img>
-<img src="" hd='0' ch='Animal_Planet_Hindi'></img>
-<img src="" hd='= ""'ch='History_18_Hindi'></img>
-<img src="" hd='1' ch='Discovery_HD_World'></img>
+<img src=""  ch='Aaj_Tak'></img>
+<img src=""  ch='Discovery_Channel_Hindi'></img>
+<img src=""  ch='Animal_Planet_Hindi'></img>
+<img src=""  ch='History_18_Hindi'></img>
+<img src=""  ch='Discovery_HD_World'></img>
    </div>
    <div id="c8" style="display:none;">
-<img src="" hd='0' ch='Aakaash_bangla'></img>
+<img src=""  ch='Aakaash_bangla'></img>
 <img src="" ch='Discovery_Channel_Hindi'></img>
 <img src="" ch='Animal_Planet_Hindi'></img>
 <img src="" ch='History_18_Hindi'></img>
