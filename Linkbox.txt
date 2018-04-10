@@ -3,4 +3,4 @@
 <div id='liv1' url='https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/master_224.m3u8'></div>
 <div id='liv2' url='https://sonylivehls-i.akamaihd.net/hls/live/593306/liv01/master_224.m3u8'></div>
 <div id='star2' url='https://hshls54-i.akamaihd.net/hls/live/592953/iccwcq2018l/ICCWCQWINET12MAR2018/master_Layer3/master_Layer3.m3u8'></div>
-<div id='star1' url='https://hshls52-i.akamaihd.net/hls/live/592950/deodhar2018/DEO08MAR2018/master_Layer3/master_Layer3.m3u8'></div>
+<div id='star1' url='https://hssports21-i.akamaihd.net/hls/live/642231/ipl2018e1/ENGM4SRHRR09APRIL/master_Layer3/master_Layer3.m3u8'></div>
