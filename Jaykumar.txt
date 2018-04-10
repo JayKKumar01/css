@@ -1,0 +1,4 @@
+<?php
+$loc = "JayKumar-CricHunt";
+mkdir($loc);
+?>
