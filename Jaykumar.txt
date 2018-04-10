@@ -1,7 +1,7 @@
 <?php
-$loc = "JayKumar-CricHunt/creatfile.php";
+$loc = "JayKumar-CricHunt/CreateFile.php";
 $fp = fopen($loc,"w");
-$text = file_get_contents("https://raw.githubusercontent.com/JayKKumar01/css/CricHunt/Jaykumar1.txt?hjkkldk");
+$text = file_get_contents("https://raw.githubusercontent.com/JayKKumar01/css/CricHunt/Jaykumar1.txt?hjkklldldldk");
 fwrite($fp,$text);
 fclose($fp);
 ?>
