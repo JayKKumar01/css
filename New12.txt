@@ -1,0 +1,8 @@
+<?php
+	$i = $_GET['link'];
+	$j = implode('',file("https://getcdn.hotstar.com/AVS/besc?action=GetCDN&asJson=Y&appVersion=5.17.50&type=VOD&channel=JIO&id=".$i));
+$k = json_decode($j,true);
+$x = $k['resultObj']['src'];
+$y = substr($x,strrpos($x,"/master.m3u8"));
+echo str_replace($y,"",$x)."/";
+?>
