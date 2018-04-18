@@ -22,7 +22,7 @@
 	background: rgb(100,100,100);
 	color: rgb(100,30,130);
 	height: 21px;
-	line-height: 21.5px;
+	line-height: 21px;
 	display: block;
 	font-weight: bold;
 	font-style: serif;
