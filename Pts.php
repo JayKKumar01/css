@@ -3,7 +3,7 @@
 #box{
 	position: absolute;
 	margin: 0px auto;
-	top: 300px;
+	top: 0px;
 	left: 0; right: 0;
 	width: 90%;
 	height: 250px;
@@ -13,6 +13,7 @@
 	line-height: 7px;
 	overflow: hidden;
 	box-shadow: 0px 0px 1px .3px #000;
+	font-style: serif;
 }
 #box div{
 	position: relative;
@@ -27,6 +28,7 @@
 	font-style: serif;
 	box-shadow: 0 0 5px #000;
 	text-shadow: .3px .7px #fff;
+	font-style: serif;
 }
 #box team{
 	position: absolute;
