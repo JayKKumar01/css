@@ -3,7 +3,7 @@
 #box{
 	position: absolute;
 	margin: 0px auto;
-	top: 0px;
+	top: 2px;
 	left: 0; right: 0;
 	width: 90%;
 	height: 250px;
