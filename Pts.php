@@ -21,7 +21,7 @@
 	width: 99.5%;
 	background: rgb(100,100,100);
 	color: rgb(100,30,130);
-	height: 21.5px;
+	height: 21px;
 	line-height: 21.5px;
 	display: block;
 	font-weight: bold;
